@@ -1,0 +1,25 @@
+{
+  "name": "cb-rv-learn-node-xa",
+  "version": "1.0.0",
+  "description": "NodeJS Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shein1/cb-rv-learn-node-xA.git"
+  },
+  "author": "Shein1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shein1/cb-rv-learn-node-xA/issues"
+  },
+  "homepage": "https://github.com/Shein1/cb-rv-learn-node-xA#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.19.1",
+    "uuid": "^3.1.0"
+  }
+}
